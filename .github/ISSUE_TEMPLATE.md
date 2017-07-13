@@ -20,5 +20,4 @@ for information on how to create a good replication case.
 Any relevant output or errors you may have seen.
 Please put any relevant large code output/debug logs in a gist and link it here. 
 
-
 ### If something something
